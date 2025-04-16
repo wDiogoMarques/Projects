@@ -1,0 +1,8 @@
+T1 v2.cpp
+
+n = 74 1.39548 segundos
+n = 84 2.76684 segundos
+n = 94 5.02831 segundos
+n = 104 86.511 segundos
+n = 114 271.919 segundos
+n = 124 933.251 segundos
