@@ -1,4 +1,4 @@
-T1 v2.cpp
+app.cpp
 
 n = 74 1.39548 segundos
 n = 84 2.76684 segundos
